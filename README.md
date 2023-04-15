@@ -34,7 +34,7 @@
   <div align="center" >
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
     <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHubPages-222222?style=flat-square&logo=GitHubPages&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHubPages&logoColor=white"/>
   </div>
 </div>
 
