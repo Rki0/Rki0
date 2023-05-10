@@ -60,3 +60,12 @@
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
   </div>
 </div>
+
+<div align="center" >
+  <h2 align="center">🍕 ETC</h2>
+  
+  <div align="center" >
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CreateReactApp-09D3AC?style=flat-square&logo=CreateReactApp&logoColor=white"/>
+  </div>
+</div>
