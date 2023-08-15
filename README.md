@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHubPages&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
   </div>
 </div>
 
