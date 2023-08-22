@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/Nest-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
   </div>
 </div>
