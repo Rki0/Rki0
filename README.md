@@ -1,6 +1,5 @@
 <h1 align="center">🦊 Rki0</h1>
-
-<h2 align="center">⚙️ Experienced Tech Stack ⚙️</h2>
+<h2 align="center">Be a Full Stack Developer!</h2>
 
 <div align="center" >
   <h2 align="center">🖥️ Frontend</h2>
@@ -27,11 +26,9 @@
     <img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nest-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
   </div>
 </div>
 
